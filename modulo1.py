@@ -1,2 +1,2 @@
-print("hola mundo...")
-print("como estas")
+for x in range(1,10):
+    print(f"el lanzamiento numero {x}")
